@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Question Mark Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assembly-Home" transform="translate(-937.000000, -818.000000)">
+            <g id="PCB-Quoted-Specifications" transform="translate(105.000000, 760.000000)">
+                <g id="Content" transform="translate(0.000000, 48.000000)">
+                    <g id="Sub-Header" transform="translate(51.000000, 2.000000)">
+                        <g id="Question-Mark-Copy-2" transform="translate(781.000000, 8.000000)">
+                            <circle id="Oval-6" fill="#9F9F9F" cx="6" cy="6" r="6"></circle>
+                            <text id="?" font-family="Lato-Regular, Lato" font-size="8" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="4" y="9">?</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

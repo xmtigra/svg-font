@@ -1,0 +1,114 @@
+@font-face {
+	font-family: "apicons";
+	src: url('./apicons.eot');
+	src: url('./apicons.eot?#iefix') format('eot'),
+		url('./apicons.woff2') format('woff2'),
+		url('./apicons.woff') format('woff'),
+		url('./apicons.ttf') format('truetype'),
+		url('./apicons.svg#apicons') format('svg');
+}
+
+.icon:before {
+	font-family: "apicons";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+
+.icon-Line:before {
+	content: "\E001";
+}
+
+.icon-Oval:before {
+	content: "\E002";
+}
+
+.icon-arrow:before {
+	content: "\E003";
+}
+
+.icon-arrow_down:before {
+	content: "\E004";
+}
+
+.icon-arrow_right:before {
+	content: "\E005";
+}
+
+.icon-bell:before {
+	content: "\E006";
+}
+
+.icon-cart:before {
+	content: "\E007";
+}
+
+.icon-checked:before {
+	content: "\E008";
+}
+
+.icon-checkmark-verify:before {
+	content: "\E009";
+}
+
+.icon-close:before {
+	content: "\E00A";
+}
+
+.icon-exclamation-mark:before {
+	content: "\E00B";
+}
+
+.icon-facebook:before {
+	content: "\E00C";
+}
+
+.icon-file-pdf:before {
+	content: "\E00D";
+}
+
+.icon-home:before {
+	content: "\E00E";
+}
+
+.icon-more:before {
+	content: "\E00F";
+}
+
+.icon-question-mark:before {
+	content: "\E010";
+}
+
+.icon-reload:before {
+	content: "\E011";
+}
+
+.icon-save:before {
+	content: "\E012";
+}
+
+.icon-search:before {
+	content: "\E013";
+}
+
+.icon-seating:before {
+	content: "\E014";
+}
+
+.icon-sent-mail:before {
+	content: "\E015";
+}
+
+.icon-triangle:before {
+	content: "\E016";
+}
+
+.icon-twitter:before {
+	content: "\E017";
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="15px" viewBox="0 0 8 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="BOM-Manager" transform="translate(-352.000000, -838.000000)" stroke="#C8C8C8">
+            <g id="#2---BOM-Line-Copy" transform="translate(26.000000, 770.000000)">
+                <g id="Additional-MPNS" transform="translate(25.000000, 6.000000)">
+                    <g id="Additional-MPN" transform="translate(0.000000, 30.000000)">
+                        <g id="Additional-MPN-#1" transform="translate(12.000000, 2.000000)">
+                            <g id="Group-7" transform="translate(293.000000, 38.000000) rotate(-90.000000) translate(-293.000000, -38.000000) translate(285.500000, 34.500000)">
+                                <path d="M0.8,0.7 L7.63347989,6.6792949" id="Line-5"></path>
+                                <path d="M7.8627417,0.7 L14.6962216,6.6792949" id="Line-5-Copy" transform="translate(11.279482, 3.689647) scale(-1, 1) translate(-11.279482, -3.689647) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
